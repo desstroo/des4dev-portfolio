@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="desdev">
+
+    <title>DesDev</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="#">
+    <meta property="og:title" content="desdev - Xiaomiui Copywriter">
+    <meta property="og:description" content="desdev - Projects and Works">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="#">
+    <meta property="twitter:title" content="desdev - Xiaomiui Copywriter">
+    <meta property="twitter:description" content="desdev - Projects">
+</head>
+<body>
+    <header class="header-dp">
+        <div class="branding">
+            <h1><a href="index.html" class="nolinktexts""> desdev</a> /</h1>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn">Projects and Works <img src="../images/icons/down.svg" alt=""></button>
+            <div class="dropdown-content">
+              <a href="../notes.html">Notes</a>
+              <a href="#">Photos and Music</a>
+              <a href="#">All Portfolio</a>
+              <a href="#">Contact Me</a>
+            </div>
+          </div>
+    </header>
+    <div class="container-op">
+        <h2><a href="../work-projects.html" class="nolinktexts">Projects and Works</a>> xiaomiui.net</h2>
+        <div class="article-content">
+            <img class="width-full-img" src="../images/covers/ximiui-cover.png">
+            <h2>Xiaomiui: Copywriter</h2>
+            <p class="ac-description">
+              Xiaomi unofficial fan community Xiaomiui produces various content about Xiaomi. 
+              For a while, I was producing content for Xiaomiui in English.
+            </p>
+            <h3>Working Time:</h3>
+            <p class="ac-description">
+                3 Months as a copywriter.
+            </p>
+            <h3>Programs and languages used:</h3>
+            <p class="ac-description">Only WordPress</p>
+        </div>
+    </div>
+    <footer class="basic-footer">
+        <hr class="hr-blk">
+        <p> © desdev 2022 <3 by desdev </p>
+    </footer>
+</body>
+</html>
