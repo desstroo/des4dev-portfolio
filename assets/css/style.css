@@ -212,6 +212,17 @@ span {
     text-decoration: none;
     color: white;
 }
+.width-full-img {
+    max-width: 80%;
+    border-radius: 16px;
+}
+.article-content h3{
+    margin-top: 48px;
+}
+.ac-description {
+    max-width: 80%;
+    max-height: 40%;
+}
 @media only screen and (max-width: 700px) {
     .container-op {
         padding: 12px;
@@ -271,6 +282,15 @@ span {
         width: 324px;
         height: 140px;
       }
+        .width-full-img {
+        max-width: 100%;
+        border-radius: 16px;
+    }
+    .ac-description {
+        max-width: 100%;
+        max-height: 40%;
+    }
+}
 @media only screen and (max-width: 1000px) {
     .cards {
         display: flex;
