@@ -12,27 +12,27 @@ You can add up to three "card" columns to each "cards" row. Otherwise, the desig
 ### Example
 ` 
   <div class="cards">
-            <a href="photos-designs/course-app.html" id="card-link">
+            <a href="photos-designs/.." id="card-link">
                 <div class="card">
-                    <img src="images/covers/course-app-cover.png" class="card-img">
+                    <img src="images/.." class="card-img">
                     <div class="content">
                       <h1>Course App Design</h1>
                       <p>Simply, modern UI design.</p>
                       </div>
                 </div>
             </a>
-            <a href="photos-designs/portfolio-website.html" id="card-link">
+            <a href="photos-designs/.." id="card-link">
                 <div class="card">
-                    <img src="images/covers/portfolio-cover.png" class="card-img">
+                    <img src="images/.." class="card-img">
                     <div class="content">
                       <h1>Portfolio Website</h1>
                       <p>Portfolio website UI design.</p>
                       </div>
                 </div>
             </a>
-            <a href="photos-designs/tekne-post.html" id="card-link">
+            <a href="photos-designs/.." id="card-link">
                 <div class="card">
-                    <img src="images/covers/tekne-post-cover.png" class="card-img">
+                    <img src="images/.." class="card-img">
                     <div class="content">
                       <h1>Tekneloji Post</h1>
                       <p>Tekneloji featured img design.</p>
