@@ -38,6 +38,7 @@ You can add up to three "card" columns to each "cards" row. Otherwise, the desig
                       <p>Tekneloji featured img design.</p>
                       </div>
                 </div>
+                <!--div must end here-->
             </a>
-        </div>
+  </div>
 ```
