@@ -10,7 +10,7 @@ HTML CSS and JS based portfolio and blog theme. Thanks to this theme, you can pr
 You can add up to three "card" columns to each "cards" row. Otherwise, the design will be broken.
 
 ### Example
-` 
+```
   <div class="cards">
             <a href="photos-designs/.." id="card-link">
                 <div class="card">
@@ -40,4 +40,4 @@ You can add up to three "card" columns to each "cards" row. Otherwise, the desig
                 </div>
             </a>
         </div>
-`
+```
